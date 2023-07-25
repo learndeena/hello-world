@@ -162,7 +162,7 @@
   <body>
     <div class="testbox">
       <form action="/">
-        <h1>Bank Customer Feedback Form</h1>
+        <h1>Madrassi Hotel Customer Feedback Form</h1>
         <h4>Type of Feedback<span>*</span></h4>
         <select>
           <option value=""></option>
